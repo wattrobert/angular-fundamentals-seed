@@ -1,1 +1,45 @@
-{}
+{
+  "passengers": [
+    {
+      "id": 1,
+      "fullname": "Rob Watt",
+      "checkedIn": false,
+      "baggage": ""
+    },
+    {
+      "id": 2,
+      "fullname": "Zeeshan Dawood",
+      "checkedIn": true,
+      "checkInDate": 1517345937000,
+      "baggage": ""
+    },
+    {
+      "id": 3,
+      "fullname": "Todd Menier",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": ""
+    },
+    {
+      "id": 4,
+      "fullname": "Jeff Isle",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": ""
+    },
+    {
+      "id": 5,
+      "fullname": "Crhistian Ramirez",
+      "checkedIn": true,
+      "checkInDate": 1517605137000,
+      "baggage": ""
+    },
+    {
+      "id": 6,
+      "fullname": "Alexa Rarick",
+      "checkedIn": true,
+      "checkInDate": 1517345937000,
+      "baggage": ""
+    }
+  ]
+}
